@@ -1,0 +1,429 @@
+[
+  {
+    "arquivo": "01_cadernos_principais/01_IMTM_perfis_ate_SHAP.ipynb",
+    "titulo": "01 | IMTM: dos perfis agregados a descoberta e SHAP",
+    "papel": "Principal: campanha padronizada final",
+    "fonte": "https://colab.research.google.com/drive/1JuFSgOmsr7bF_4lrZAPCr9z42NvDXLtS",
+    "arquivo_origem": "CellPainting_IMTM_HepG2_didatico_padronizado.ipynb",
+    "sha256_origem": "408fe3ddc6b8b05041da355abae860fa28b828378f40eff61317c216a00e184e",
+    "sha256_publicacao": "88f13a369593c0887034043ffd99a8729c6150b6b6f9bff37d6a612f9058f791",
+    "celulas_codigo": 19,
+    "alteracoes": [
+      {
+        "tipo": "configuracao_de_inicio",
+        "nome": "PASTA_RETOMAR",
+        "antes": "PASTA_RETOMAR = None  # Opcional: caminho EXATO de uma execucao deste caderno.",
+        "depois": "PASTA_RETOMAR = None",
+        "celula_original": 4
+      },
+      {
+        "tipo": "configuracao_de_inicio",
+        "nome": "ABRIR_RESERVADA",
+        "antes": "ABRIR_RESERVADA = True  # Altere aqui depois de examinar a descoberta desta execucao.",
+        "depois": "ABRIR_RESERVADA = False",
+        "celula_original": 36
+      }
+    ],
+    "execucao_nesta_entrega": "nao executado com dados reais; verificacao estrutural e sintatica"
+  },
+  {
+    "arquivo": "01_cadernos_principais/02_FMP_perfis_ate_SHAP.ipynb",
+    "titulo": "02 | FMP: dos perfis agregados a descoberta e SHAP",
+    "papel": "Principal: campanha padronizada final",
+    "fonte": "https://colab.research.google.com/drive/1DxNGDYuwzissp8nbc-ymfZQjTpLTdNmu",
+    "arquivo_origem": "CellPainting_FMP_HepG2_didatico_padronizado.ipynb",
+    "sha256_origem": "70825acd89a24bdf70bc5d7a0692c887b607e5dbf1b7ea2f2378519b04523a4a",
+    "sha256_publicacao": "65d5652d09b2f030511fb66372afe7f223527c750ebc8b65736fa3b8d05600c5",
+    "celulas_codigo": 19,
+    "alteracoes": [
+      {
+        "tipo": "configuracao_de_inicio",
+        "nome": "PASTA_RETOMAR",
+        "antes": "PASTA_RETOMAR = None  # Opcional: caminho EXATO de uma execucao deste caderno.",
+        "depois": "PASTA_RETOMAR = None",
+        "celula_original": 4
+      },
+      {
+        "tipo": "configuracao_de_inicio",
+        "nome": "ABRIR_RESERVADA",
+        "antes": "ABRIR_RESERVADA = True  # Altere aqui depois de examinar a descoberta desta execucao.",
+        "depois": "ABRIR_RESERVADA = False",
+        "celula_original": 36
+      }
+    ],
+    "execucao_nesta_entrega": "nao executado com dados reais; verificacao estrutural e sintatica"
+  },
+  {
+    "arquivo": "01_cadernos_principais/03_MEDINA_perfis_ate_SHAP.ipynb",
+    "titulo": "03 | MEDINA: dos perfis agregados a descoberta e SHAP",
+    "papel": "Principal: campanha padronizada final",
+    "fonte": "https://colab.research.google.com/drive/1h32xnRMMzl-ukB79_UgD73SZir3Z7P0u",
+    "arquivo_origem": "CellPainting_MEDINA_HepG2_didatico.ipynb",
+    "sha256_origem": "f71b11972799ef4ee0d9f97d2fc68aa8dbae035ba26d7e1b61317d66b86cd1e1",
+    "sha256_publicacao": "472307ed7050a69ddaf3a5a24d066918b245a0e75587294e9dd4b487d8e00e67",
+    "celulas_codigo": 19,
+    "alteracoes": [
+      {
+        "tipo": "configuracao_de_inicio",
+        "nome": "PASTA_RETOMAR",
+        "antes": "PASTA_RETOMAR = (\n    \"/content/drive/MyDrive/mba_tcc/resultados_MEDINA_HepG2/\"\n    \"didatico_generalizavel/MEDINA_HepG2_20260930T235739_244794Z\"\n)  # Opcional: caminho EXATO de uma execucao deste caderno.",
+        "depois": "PASTA_RETOMAR = None",
+        "celula_original": 4
+      },
+      {
+        "tipo": "configuracao_de_inicio",
+        "nome": "ABRIR_RESERVADA",
+        "antes": "ABRIR_RESERVADA = True  # Altere aqui depois de examinar a descoberta desta execucao.",
+        "depois": "ABRIR_RESERVADA = False",
+        "celula_original": 36
+      }
+    ],
+    "execucao_nesta_entrega": "nao executado com dados reais; verificacao estrutural e sintatica"
+  },
+  {
+    "arquivo": "01_cadernos_principais/04_USC_perfis_ate_SHAP.ipynb",
+    "titulo": "04 | USC: dos perfis agregados a descoberta e SHAP",
+    "papel": "Principal: campanha padronizada final",
+    "fonte": "https://colab.research.google.com/drive/1cTNF2P2drltDdR3HltpvYz6GQtdlkE5q",
+    "arquivo_origem": "CellPainting_USC_HepG2_didatico.ipynb",
+    "sha256_origem": "8db1e6837cf87cd17ad96e8da4fc37e615b5bb4b5880dae921585ce279c41360",
+    "sha256_publicacao": "07fd42223a0d3d1c8f0cb6bf941903a8e1d1902d20386e66ca3a6441e9b3b8ce",
+    "celulas_codigo": 19,
+    "alteracoes": [
+      {
+        "tipo": "configuracao_de_inicio",
+        "nome": "PASTA_RETOMAR",
+        "antes": "PASTA_RETOMAR = None  # Opcional: caminho EXATO de uma execucao deste caderno.",
+        "depois": "PASTA_RETOMAR = None",
+        "celula_original": 4
+      },
+      {
+        "tipo": "configuracao_de_inicio",
+        "nome": "ABRIR_RESERVADA",
+        "antes": "ABRIR_RESERVADA = True  # Altere aqui depois de examinar a descoberta desta execucao.",
+        "depois": "ABRIR_RESERVADA = False",
+        "celula_original": 36
+      }
+    ],
+    "execucao_nesta_entrega": "nao executado com dados reais; verificacao estrutural e sintatica"
+  },
+  {
+    "arquivo": "01_cadernos_principais/05_MEDINA_R4_sem_retreino.ipynb",
+    "titulo": "05 | MEDINA: complemento de R4",
+    "papel": "Principal: complemento executado de R4",
+    "fonte": "https://drive.google.com/file/d/1jDQh0V6xTbNAsmHYu20YFedGOnjIgeKW/view",
+    "arquivo_origem": "MEDINA_R4_auditoria_sem_retreino.ipynb.json",
+    "sha256_origem": "a40d17c7c03a8a9d499d5df343b3cdb72ba55eb3860ab5350f51a39e371cba05",
+    "sha256_publicacao": "5b73b7a34909cf94b801c8fc8ab27b3ae79058b27cf8c909a126775f4547202e",
+    "celulas_codigo": 5,
+    "alteracoes": [
+      {
+        "tipo": "configuracao_de_inicio",
+        "nome": "AUTORIZAR_R4",
+        "antes": "AUTORIZAR_R4 = True  # A leitura quantitativa ocorre somente na ultima secao.",
+        "depois": "AUTORIZAR_R4 = False",
+        "celula_original": 4
+      }
+    ],
+    "execucao_nesta_entrega": "nao executado com dados reais; verificacao estrutural e sintatica"
+  },
+  {
+    "arquivo": "01_cadernos_principais/06_comparacao_quatro_locais.ipynb",
+    "titulo": "06 | Comparacao das quatro campanhas padronizadas",
+    "papel": "Principal: comparacao de saidas salvas",
+    "fonte": "https://colab.research.google.com/drive/1PA4hiukRZeh2ThNsnu6h35bJfO_tQlq4",
+    "arquivo_origem": "Comparacao_4_locais_padronizada_v2.ipynb",
+    "sha256_origem": "c02abc3344e51a270e1f150654056091e0fab5864be667b42dea4689ba91fb2a",
+    "sha256_publicacao": "156349aa524c0bd873e415dffaa04a10eb33aa4a8264d8cd68e2ac2cf768142e",
+    "celulas_codigo": 7,
+    "alteracoes": [
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 2,
+        "antes": "/content/drive/MyDrive/mba_tcc/comparacao_4_locais_HepG2/padronizada_20261003",
+        "depois": "/content/drive/MyDrive/mba_tcc/TCC_CellPainting_cadernos_repositorio/04_fontes_e_referencia/recursos/fontes",
+        "ocorrencias": 1
+      }
+    ],
+    "execucao_nesta_entrega": "nao executado com dados reais; verificacao estrutural e sintatica"
+  },
+  {
+    "arquivo": "01_cadernos_principais/07_Alda1_imagens_R1_R3.ipynb",
+    "titulo": "07 | Alda-1: imagens reais e controles R1-R3",
+    "papel": "Principal: inspecao das imagens originais",
+    "fonte": "https://colab.research.google.com/drive/1brwjVv8bTDOKEITls8hc_b1OAtf0Gknj",
+    "arquivo_origem": "Alda1_inspecao_R1_R3_R4_opcional.ipynb",
+    "sha256_origem": "487c9ae53e510bb395b73f12a39529a1b1c30872051d43d6c1c2c4f529bb757b",
+    "sha256_publicacao": "b3f5b1a82ca59297740ba16a003505a6aa1466484f81b064d3aae89b99814eea",
+    "celulas_codigo": 12,
+    "alteracoes": [],
+    "execucao_nesta_entrega": "nao executado com dados reais; verificacao estrutural e sintatica"
+  },
+  {
+    "arquivo": "01_cadernos_principais/08_Alda1_integracao_visual_quantitativa.ipynb",
+    "titulo": "08 | Alda-1: integrar a leitura humana e os perfis",
+    "papel": "Principal: caderno documentado do codigo de integracao utilizado",
+    "fonte": "Entrega de 4 out. 2026; codigo analisar_integracao.py em Integracao_final_Alda1_e_texto_TCC.zip",
+    "arquivo_origem": "04_integracao_visual_quantitativa.ipynb",
+    "sha256_origem": "a4844ab1fd4e4135942fab6d693b0f79a74f7284d2868a5c4be01b45518d71cd",
+    "sha256_publicacao": "5105b65707f9d56487022d2c6208a4296388a500bafdc691a017aeffd1f2dd50",
+    "celulas_codigo": 8,
+    "alteracoes": [
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 2,
+        "antes": "ENTREGA = BASE / 'TCC_entrega_final'",
+        "depois": "ENTREGA = Path('/content/drive/MyDrive/mba_tcc/TCC_CellPainting_cadernos_repositorio/04_fontes_e_referencia/recursos')",
+        "ocorrencias": 1
+      }
+    ],
+    "execucao_nesta_entrega": "nao executado com dados reais; verificacao estrutural e sintatica"
+  },
+  {
+    "arquivo": "01_cadernos_principais/09_figuras_quantitativas.ipynb",
+    "titulo": "09 | Reproduzir as figuras quantitativas",
+    "papel": "Principal: codigo grafico documentado da entrega anterior",
+    "fonte": "Entrega de 4 out. 2026; 05_figuras_e_tabelas_finais.ipynb",
+    "arquivo_origem": "05_figuras_e_tabelas_finais.ipynb",
+    "sha256_origem": "3a453b3a47694456ec41015d11432b470130ab3c0a6048a871cb40ee62e78382",
+    "sha256_publicacao": "3d09c5cb791f12f8cd0b4fb460eac7ccd23bb28c21baef541a57a19e61fcfb75",
+    "celulas_codigo": 7,
+    "alteracoes": [
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 2,
+        "antes": "/content/drive/MyDrive/mba_tcc/TCC_entrega_final",
+        "depois": "/content/drive/MyDrive/mba_tcc/TCC_CellPainting_cadernos_repositorio/04_fontes_e_referencia/recursos",
+        "ocorrencias": 1
+      },
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 4,
+        "antes": "F01_excedencia_blocos",
+        "depois": "Figura_02_excedencia_blocos",
+        "ocorrencias": 1
+      },
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 4,
+        "antes": "Figura 1.",
+        "depois": "EDITORIAL_FIG_2.",
+        "ocorrencias": 1
+      },
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 4,
+        "antes": "EDITORIAL_FIG_2.",
+        "depois": "Figura 2.",
+        "ocorrencias": 1
+      },
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 6,
+        "antes": "F02_concordancia",
+        "depois": "Figura_03_concordancia",
+        "ocorrencias": 1
+      },
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 6,
+        "antes": "Figura 2.",
+        "depois": "EDITORIAL_FIG_3.",
+        "ocorrencias": 1
+      },
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 6,
+        "antes": "EDITORIAL_FIG_3.",
+        "depois": "Figura 3.",
+        "ocorrencias": 1
+      },
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 8,
+        "antes": "F03_modelos",
+        "depois": "Figura_04_modelos",
+        "ocorrencias": 1
+      },
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 8,
+        "antes": "Figura 3.",
+        "depois": "EDITORIAL_FIG_4.",
+        "ocorrencias": 1
+      },
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 8,
+        "antes": "EDITORIAL_FIG_4.",
+        "depois": "Figura 4.",
+        "ocorrencias": 1
+      },
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 10,
+        "antes": "F04_SHAP",
+        "depois": "Figura_05_SHAP",
+        "ocorrencias": 1
+      },
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 10,
+        "antes": "Figura 4.",
+        "depois": "EDITORIAL_FIG_5.",
+        "ocorrencias": 1
+      },
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 10,
+        "antes": "EDITORIAL_FIG_5.",
+        "depois": "Figura 5.",
+        "ocorrencias": 1
+      },
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 12,
+        "antes": "F05_Alda1_controles",
+        "depois": "Figura_06_Alda1_controles",
+        "ocorrencias": 3
+      },
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 12,
+        "antes": "Figura 5.",
+        "depois": "EDITORIAL_FIG_6.",
+        "ocorrencias": 1
+      },
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 12,
+        "antes": "EDITORIAL_FIG_6.",
+        "depois": "Figura 6.",
+        "ocorrencias": 1
+      },
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 14,
+        "antes": "F07_exemplo_microscopia",
+        "depois": "Figura_07_exemplo_microscopia",
+        "ocorrencias": 2
+      },
+      {
+        "tipo": "caminho_ou_rotulo_editorial",
+        "celula_original": 14,
+        "antes": "Tabela_3_Alda1",
+        "depois": "Tabela_8_Alda1",
+        "ocorrencias": 1
+      },
+      {
+        "tipo": "rotulo_editorial",
+        "celula": "orig-013",
+        "antes": "Figura 6 (painel documental)",
+        "depois": "Figura 7 (painel documental)"
+      },
+      {
+        "tipo": "rotulo_editorial",
+        "celula": "orig-014",
+        "antes": "Figura 6 (painel documental)",
+        "depois": "Figura 7 (painel documental)"
+      }
+    ],
+    "execucao_nesta_entrega": "nao executado com dados reais; verificacao estrutural e sintatica"
+  },
+  {
+    "arquivo": "02_cadernos_suplementares/S00_IMTM_historico_e_ZCA.ipynb",
+    "titulo": "IMTM historico e comparacao MAD/ZCA-Ledoit-Wolf",
+    "papel": "Suplementar: analise historica descrita no trabalho",
+    "fonte": "https://colab.research.google.com/drive/12cUs6rcawPBvQ23WM6gzsaJjjqksHLez",
+    "arquivo_origem": "tcc_com_norm.ipynb",
+    "sha256_origem": "8846fc2731c99bca7f8eee4edec41661a30e6bb2241d9d693d5b34e2f4edb332",
+    "sha256_publicacao": "d468bf752e20b1ce3048be18b75c08e251cf57eb11817479c586ff5a4e09f668",
+    "celulas_codigo": 20,
+    "alteracoes": [],
+    "execucao_nesta_entrega": "nao executado com dados reais; verificacao estrutural e sintatica"
+  },
+  {
+    "arquivo": "02_cadernos_suplementares/S01_IMTM_mapa_multibloco.ipynb",
+    "titulo": "Mapa multibloco historico",
+    "papel": "Suplementar: analise historica descrita no trabalho",
+    "fonte": "https://colab.research.google.com/drive/1d5LPDDE21BdRxAM_o1FueqvMfKgW0zjr",
+    "arquivo_origem": "TCC_03_mapa_multibloco_R1_R3.ipynb",
+    "sha256_origem": "b23e0705d67963da386df4a14582454decaaacff0b43bf3e2b7057e09030ca1c",
+    "sha256_publicacao": "353bfe24c6c4614418e74bd5958484e783f0437d4fbabdcf2519b833f587f0cc",
+    "celulas_codigo": 8,
+    "alteracoes": [],
+    "execucao_nesta_entrega": "nao executado com dados reais; verificacao estrutural e sintatica"
+  },
+  {
+    "arquivo": "02_cadernos_suplementares/S02_IMTM_agrupamentos_historicos.ipynb",
+    "titulo": "Agrupamentos historicos que antecedem a calibracao",
+    "papel": "Suplementar: analise historica descrita no trabalho",
+    "fonte": "https://colab.research.google.com/drive/1T60tj8Q6um5FbEuprwZCNvcxkqpxfzYg",
+    "arquivo_origem": "TCC_04_agrupamento_fenotipico_R1_R3.ipynb",
+    "sha256_origem": "79a763543a40d08242e431c63dc327b03be40df5f393cc12d5159fd321b44743",
+    "sha256_publicacao": "317aefd83962eb9624c4e15a99a825390faeb5f12669450ea269b9db1c28ba6c",
+    "celulas_codigo": 8,
+    "alteracoes": [],
+    "execucao_nesta_entrega": "nao executado com dados reais; verificacao estrutural e sintatica"
+  },
+  {
+    "arquivo": "02_cadernos_suplementares/S03_IMTM_auditoria_DMSO_P95.ipynb",
+    "titulo": "Auditoria historica de controles e referencias",
+    "papel": "Suplementar: analise historica descrita no trabalho",
+    "fonte": "https://colab.research.google.com/drive/1Ik3FyU7z4uO9MXVLyAPKSTGBlkzIs3cD",
+    "arquivo_origem": "TCC_05_auditoria_DMSO_P95_R1_R3.ipynb",
+    "sha256_origem": "6dec225bcf99a254578653eb3a6d199bbd70222c1f9b77bc1a2e3c610e3024a7",
+    "sha256_publicacao": "2ced3d3977ccaf567dd9590bd749b9998c6ca5451782eed8642ebbd9ecce03f4",
+    "celulas_codigo": 10,
+    "alteracoes": [],
+    "execucao_nesta_entrega": "nao executado com dados reais; verificacao estrutural e sintatica"
+  },
+  {
+    "arquivo": "02_cadernos_suplementares/S04_IMTM_sensibilidade_P95.ipynb",
+    "titulo": "Sensibilidade historica a divisao pelo P95",
+    "papel": "Suplementar: analise historica descrita no trabalho",
+    "fonte": "https://colab.research.google.com/drive/15bMoG0kMxF8at3fLT_ga81FC6_MwUWd_",
+    "arquivo_origem": "TCC_06_sensibilidade_P95_R1_R3.ipynb",
+    "sha256_origem": "c532608e13c55a7ca537696fd666347c69678e62ffd53cb413f143d3e69c185c",
+    "sha256_publicacao": "2ef71cf097e7695cd73e18f59ee5b053c93a60d0bf187c2e8d86aa2ee494735c",
+    "celulas_codigo": 7,
+    "alteracoes": [],
+    "execucao_nesta_entrega": "nao executado com dados reais; verificacao estrutural e sintatica"
+  },
+  {
+    "arquivo": "02_cadernos_suplementares/S05_IMTM_calibracao_residual.ipynb",
+    "titulo": "Calibracao residual DMSO nao incorporada",
+    "papel": "Suplementar: analise historica descrita no trabalho",
+    "fonte": "https://colab.research.google.com/drive/1jI5O2getUZOFGvQDNC8dCd5wIDyhwq-A",
+    "arquivo_origem": "TCC_07_calibracao_residual_DMSO_R1_R3.ipynb",
+    "sha256_origem": "eb4114d046cf0a2cb7ef4302ad2a2c37b29f9f87161ca2ad71bd3a66f47c7ffb",
+    "sha256_publicacao": "59b5eb161dc9ec446d07cef3c1e9cd345e7f9e93c8c5641d3e018f7c070d2b6d",
+    "celulas_codigo": 10,
+    "alteracoes": [],
+    "execucao_nesta_entrega": "nao executado com dados reais; verificacao estrutural e sintatica"
+  },
+  {
+    "arquivo": "02_cadernos_suplementares/S06_Alda1_piloto.ipynb",
+    "titulo": "Piloto de Alda-1: um campo de R1",
+    "papel": "Suplementar: piloto que antecedeu a ampliacao",
+    "fonte": "https://colab.research.google.com/drive/1chvkwZbqYezhS6_u-FA_0slWq2MkfGgk",
+    "arquivo_origem": "Inspecao_biologica_imagens_4_locais.ipynb",
+    "sha256_origem": "fc05b88e0c864649c5a73dfc2f3f648e3a7e58fcd55732b24ad768169a31b07c",
+    "sha256_publicacao": "a898e8f2c541abfaceeb821e3c9e037e2e10baf363f795382c708ab975ad86dd",
+    "celulas_codigo": 11,
+    "alteracoes": [],
+    "execucao_nesta_entrega": "nao executado com dados reais; verificacao estrutural e sintatica"
+  },
+  {
+    "arquivo": "02_cadernos_suplementares/S07_Alda1_janelas_complementares.ipynb",
+    "titulo": "Janelas complementares do piloto",
+    "papel": "Suplementar: visualizacao posterior do piloto",
+    "fonte": "Revisao_piloto_Alda1_4_locais.zip / Complemento_visual_piloto_Alda1.ipynb",
+    "arquivo_origem": "Complemento_visual_piloto_Alda1.ipynb",
+    "sha256_origem": "750872625db73e0c59fa4d9ad541c565bf95292751d2c3b862f19174c4d79a49",
+    "sha256_publicacao": "093b5418c1f09c8d5f43fd6b659c32160afea352a6e55b841c7bcdf27e5b1621",
+    "celulas_codigo": 3,
+    "alteracoes": [],
+    "execucao_nesta_entrega": "nao executado com dados reais; verificacao estrutural e sintatica"
+  }
+]

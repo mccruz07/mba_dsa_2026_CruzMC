@@ -1,0 +1,160 @@
+{
+  "notebooks": 19,
+  "celulas_codigo_compiladas": 199,
+  "cadernos_com_origem_e_hash": 17,
+  "recursos_sha256_conferidos": 149,
+  "checagens_cadernos": [
+    {
+      "caderno": "01_cadernos_principais/00_LEIA_PRIMEIRO_e_preparacao.ipynb",
+      "estrutura": "valida",
+      "saidas": "limpas"
+    },
+    {
+      "caderno": "01_cadernos_principais/01_IMTM_perfis_ate_SHAP.ipynb",
+      "estrutura": "valida",
+      "saidas": "limpas"
+    },
+    {
+      "caderno": "01_cadernos_principais/02_FMP_perfis_ate_SHAP.ipynb",
+      "estrutura": "valida",
+      "saidas": "limpas"
+    },
+    {
+      "caderno": "01_cadernos_principais/03_MEDINA_perfis_ate_SHAP.ipynb",
+      "estrutura": "valida",
+      "saidas": "limpas"
+    },
+    {
+      "caderno": "01_cadernos_principais/04_USC_perfis_ate_SHAP.ipynb",
+      "estrutura": "valida",
+      "saidas": "limpas"
+    },
+    {
+      "caderno": "01_cadernos_principais/05_MEDINA_R4_sem_retreino.ipynb",
+      "estrutura": "valida",
+      "saidas": "limpas"
+    },
+    {
+      "caderno": "01_cadernos_principais/06_comparacao_quatro_locais.ipynb",
+      "estrutura": "valida",
+      "saidas": "limpas"
+    },
+    {
+      "caderno": "01_cadernos_principais/07_Alda1_imagens_R1_R3.ipynb",
+      "estrutura": "valida",
+      "saidas": "limpas"
+    },
+    {
+      "caderno": "01_cadernos_principais/08_Alda1_integracao_visual_quantitativa.ipynb",
+      "estrutura": "valida",
+      "saidas": "limpas"
+    },
+    {
+      "caderno": "01_cadernos_principais/09_figuras_quantitativas.ipynb",
+      "estrutura": "valida",
+      "saidas": "limpas"
+    },
+    {
+      "caderno": "01_cadernos_principais/10_figuras_tabelas_aprovadas_e_MEDINA_R4.ipynb",
+      "estrutura": "valida",
+      "saidas": "limpas"
+    },
+    {
+      "caderno": "02_cadernos_suplementares/S00_IMTM_historico_e_ZCA.ipynb",
+      "estrutura": "valida",
+      "saidas": "limpas"
+    },
+    {
+      "caderno": "02_cadernos_suplementares/S01_IMTM_mapa_multibloco.ipynb",
+      "estrutura": "valida",
+      "saidas": "limpas"
+    },
+    {
+      "caderno": "02_cadernos_suplementares/S02_IMTM_agrupamentos_historicos.ipynb",
+      "estrutura": "valida",
+      "saidas": "limpas"
+    },
+    {
+      "caderno": "02_cadernos_suplementares/S03_IMTM_auditoria_DMSO_P95.ipynb",
+      "estrutura": "valida",
+      "saidas": "limpas"
+    },
+    {
+      "caderno": "02_cadernos_suplementares/S04_IMTM_sensibilidade_P95.ipynb",
+      "estrutura": "valida",
+      "saidas": "limpas"
+    },
+    {
+      "caderno": "02_cadernos_suplementares/S05_IMTM_calibracao_residual.ipynb",
+      "estrutura": "valida",
+      "saidas": "limpas"
+    },
+    {
+      "caderno": "02_cadernos_suplementares/S06_Alda1_piloto.ipynb",
+      "estrutura": "valida",
+      "saidas": "limpas"
+    },
+    {
+      "caderno": "02_cadernos_suplementares/S07_Alda1_janelas_complementares.ipynb",
+      "estrutura": "valida",
+      "saidas": "limpas"
+    }
+  ],
+  "MEDINA_R4_recontagem": [
+    {
+      "bloco": "AGP",
+      "n_DMSO": 196,
+      "n_avaliaveis": 196,
+      "n_acima": 6,
+      "taxa_pct": 3.061224489795918
+    },
+    {
+      "bloco": "DNA",
+      "n_DMSO": 196,
+      "n_avaliaveis": 196,
+      "n_acima": 7,
+      "taxa_pct": 3.571428571428571
+    },
+    {
+      "bloco": "ER",
+      "n_DMSO": 196,
+      "n_avaliaveis": 196,
+      "n_acima": 12,
+      "taxa_pct": 6.122448979591836
+    },
+    {
+      "bloco": "Mito",
+      "n_DMSO": 196,
+      "n_avaliaveis": 196,
+      "n_acima": 6,
+      "taxa_pct": 3.061224489795918
+    },
+    {
+      "bloco": "Morfologia_Cells",
+      "n_DMSO": 196,
+      "n_avaliaveis": 196,
+      "n_acima": 10,
+      "taxa_pct": 5.1020408163265305
+    },
+    {
+      "bloco": "Morfologia_Cyto",
+      "n_DMSO": 196,
+      "n_avaliaveis": 196,
+      "n_acima": 10,
+      "taxa_pct": 5.1020408163265305
+    },
+    {
+      "bloco": "Morfologia_Nuc",
+      "n_DMSO": 196,
+      "n_avaliaveis": 196,
+      "n_acima": 10,
+      "taxa_pct": 5.1020408163265305
+    }
+  ],
+  "modelos_treinados_nesta_curadoria": 0,
+  "downloads_novos_de_imagens": 0,
+  "execucao_integral_no_Colab_nesta_curadoria": false,
+  "escopo": "validacao estrutural, sintatica, hashes e recontagem de tabelas salvas; nao execucao funcional completa",
+  "caderno_10_executado_localmente_com_recursos_reais": true,
+  "montagem_drive_no_teste_10": "simulada; nenhum acesso remoto"
+}
